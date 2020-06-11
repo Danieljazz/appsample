@@ -1,3 +1,3 @@
 #Apps
 
-git tutorial
+Git and github tutorial.
